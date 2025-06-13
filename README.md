@@ -73,22 +73,24 @@ Currently pursuing a BSc (Hons) in Information Technology (Software Engineering)
 
 ---
 
-### 🌐 Connect With Me
+<!-- Contact -->
+### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Thathsarani123">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:madhuwanthithathsarani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/p-m-thathsarani">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:madhuwanthithathsarani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/Thathsarani123">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
+<!-- Fun Quote -->
+### ✨ Fun Fact
 
-> I bring clean code, creative UIs, and clever systems to life — from the deep sea of fisheries to futuristic apps 🚀
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
