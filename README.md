@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm P.M. Thathsarani</h1>
-<h3 align="center">🚀 Full-Stack Developer | UI/UX Enthusiast | Web Developemrnt Expert</h3>
+<h3 align="center">🚀 Full-Stack Developer | UI/UX Enthusiast | Web Development Expert</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
@@ -9,9 +9,9 @@
 
 ### 💫 About Me
 
-- 🌱 I’m currently learning BSc (Hons) in Information Technology Specializing in Software Engineering Degree from ESU
-- 👩‍💻 Full-Stack Developer with **1+ year of experience**
-- 🏛 All of my projects are available at
+- 🎓 BSc (Hons) in IT specializing in Software Engineering – **ESOFT Metro Campus**
+- 👩‍💻 Full-Stack Developer with **1+ year of hands-on experience**
+- 🚀 Passionate about web apps, system development & user-first design
 - 📫 Reach me at: [madhuwanthithathsarani@gmail.com](mailto:madhuwanthithathsarani@gmail.com)
 - 🔗 [LinkedIn](http://linkedin.com/in/p-m-thathsarani) | [GitHub](https://github.com/Thathsarani123)
 
@@ -20,7 +20,7 @@
 ### 🧰 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,python,csharp,html,css,js,,bootstrap,figma,wordpress,mysql,mongodb,xml,django,git,github,yii" />
+  <img src="https://skillicons.dev/icons?i=php,java,python,csharp,html,css,js,bootstrap,figma,wordpress,mysql,mongodb,xml,django,git,github,yii" />
 </p>
 
 ---
@@ -38,17 +38,32 @@
 
 ---
 
+### 📊 GitHub Status
 
-### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thathsarani123&show_icons=true&count_private=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thathsarani123&theme=tokyonight" width="45%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thathsarani123&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thathsarani123&theme=tokyonight" width="48%" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thathsarani123&layout=compact&theme=tokyonight" width="50%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thathsarani123&theme=tokyonight" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thathsarani123&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thathsarani123&theme=tokyonight" width="45%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thathsarani123&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thathsarani123&theme=tokyonight&utcOffset=+5.5" width="45%"/>
+</div>
 
 ---
 
