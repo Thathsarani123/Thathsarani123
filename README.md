@@ -1,12 +1,9 @@
-<h1 align="center">👋 Hello, I'm P.M. Thathsarani</h1>
-<h3 align="center">💻 Software Engineer | Full-Stack Developer | UI/UX Specialist</h3>
+<!-- Header Section -->
+<h1 align="center">✨ Hi, I'm P.M. Thathsarani ✨</h1>
+<h3 align="center">💻 Software Engineer | Full-Stack Developer | UI/UX Designer | Open-Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Coding Animation"/>
-</p>
-
-<p align="center">
-  Passionate about building innovative digital solutions, crafting intuitive user experiences, and contributing to impactful software projects.
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding-gif">
 </p>
 
 <p align="justify">
