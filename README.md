@@ -6,9 +6,9 @@
 </p>
 
 <p align="justify">
-I am a highly motivated and detail-oriented full-stack software developer with hands-on experience in building and deploying robust web applications. With a strong foundation in PHP, Java, C#, JavaScript, and the Yii Framework, I have successfully delivered scalable software solutions in both academic and real-world environments. My internship at the Department of Fisheries and Aquatic Resources marked a significant milestone, where I developed Sri Lanka’s first government Overtime Management System, enhancing operational efficiency across 15 districts.
+I am a dedicated full-stack software developer with a strong foundation in web development, UI/UX design, and database management. With experience in technologies such as PHP, JavaScript, C#, Java, and the Yii Framework, I specialize in building scalable and efficient software solutions. During my internship at the Department of Fisheries and Aquatic Resources, I led the development of Sri Lanka’s first government Overtime Management System, significantly improving operational workflows.
 
-In addition to backend development, I am passionate about UI/UX design and have worked with tools like Figma and WordPress to create intuitive and user-friendly interfaces. I’ve led and contributed to projects involving Laravel, Django, and XML-based systems, including hospital, hotel, and fitness management platforms. Currently pursuing a BSc (Hons) in Information Technology with a focus in Software Engineering at ESOFT Metro Campus, I am committed to continuous learning, open-source collaboration, and applying technology to solve real-world problems.
+Currently pursuing a BSc (Hons) in Information Technology (Software Engineering) at ESOFT Metro Campus, I am passionate about clean code, modern frameworks, and continuous learning. My goal is to contribute to meaningful projects, embrace open-source collaboration, and drive innovation through technology.
 </p>
 ---
 
