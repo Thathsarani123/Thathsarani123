@@ -1,77 +1,83 @@
-<h1 align="center">Hi there! 👋 I'm Rangika</h1>
-<h3 align="center">🚀 Final Year Software Engineering Undergraduate | Freelance Developer | Research Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm P.M. Thathsarani</h1>
+<h3 align="center">🚀 Full-Stack Developer | UI/UX Enthusiast | Researcher</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200px" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </p>
 
 ---
 
 ### 💫 About Me
 
-- 🎓 Final Year at **ESOFT Metro Campus**, Colombo (BIT Hons in Software Engineering)  
-- 💻 Passionate about **Full-Stack Development**, **Green IT**, and **Research**  
-- 👷‍♀️ Interned at **Department of Fisheries**, developed **Sri Lanka’s first Overtime Management System**  
-- 🛍️ Building eCommerce experiences for **ABC Retail** using **WooCommerce & Breakdance**  
-- 🎥 Developed an **Online Movie Rental System** using **PHP, XML, and JS**
-- 🌱 Currently learning **React**, **Laravel**, and **Advanced Web Technologies**
-- 📫 Reach me at: `your-email@example.com`
+- 🌱 Graduate in **Software Engineering** from ESOFT Metro Campus, Colombo  
+- 👩‍💻 Full-Stack Developer with **1+ year of experience**
+- 🏛 Intern at **Department of Fisheries**, built **Sri Lanka’s first Overtime Management System**
+- 🎨 UI/UX Designer with **Figma & WordPress expertise**
+- 📫 Reach me at: [madhuwanthithathsarani@gmail.com](mailto:madhuwanthithathsarani@gmail.com)
+- 🔗 [LinkedIn](http://linkedin.com/in/p-m-thathsarani) | [GitHub](https://github.com/Thathsarani123)
 
 ---
 
-### 💼 Tech Stack
+### 🧰 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,react,nodejs,bootstrap,mysql,mongodb,java,figma,git,github,wordpress,xml,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,java,python,csharp,html,css,js,react,nodejs,bootstrap,figma,wordpress,mysql,mongodb,xml,django,git,github,yii" />
 </p>
 
 ---
 
-### 🧠 Learning & Exploring
-- 🌐 ASP .NET, Laravel
-- ☁️ Cloud Application Development
-- 🔍 Data Science (Heart patient data + visualization)
-- 📊 Advanced Management Accounting (CIMA)
+### 🔥 Projects & Contributions
+
+- 🕒 **Overtime Management System** for SL Government Sector  
+- 🎬 **Movie Rental System** using PHP & XML  
+- 🏥 **Hospital Management System** in C#  
+- 🧱 **Masonry Service Management System**  
+- 🎟️ **Movie Ticket Reservation System** in JS  
+- 📲 **E-Channeling Android App**  
+- ✍️ **Blog Post System** in Django  
+- 🧬 [**Length Conversion Factors for Billfish Species** – IOTC Publication](#)
 
 ---
 
-### 🔬 Research Highlights
-- 📈 **Gen Z Online Purchase Behavior in Sri Lanka** (Dissertation)
-- 🍃 **Green IT Practices** in MAS Holdings & Brandix
-- 🐟 Algorithmic Billfish Length Detection in Sri Lanka
+### 📚 Education
+
+- 🎓 **BIT (Hons)** in Software Engineering – ESOFT Metro Campus  
+- 🖥️ Diploma in IT – Siksil Institute of Business Technology  
+- 🧾 AAT (Partly Qualified)  
+- 📈 Google Data Engineering Course (Ongoing)  
+- ☕ Java Programming – Great Learning (Ongoing)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thathsarani123&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thathsarani123&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thathsarani123&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/Thathsarani123">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/p-m-thathsarani">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YourGitHubUsername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:madhuwanthithathsarani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-> 💬 I talk in code, and sometimes in research citations 😄
 
-
+> I bring clean code, creative UIs, and clever systems to life — from the deep sea of fisheries to futuristic apps 🚀
