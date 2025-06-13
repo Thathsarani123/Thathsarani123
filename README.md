@@ -6,9 +6,9 @@
 </p>
 
 <p align="justify">
-As a highly motivated software engineer with leadership experience, I excel in full-stack development, UI/UX design, and technical consultation. Proficient in Laravel, the MERN stack, and Vue.js, I’m passionate about JavaScript and contemporary frameworks. I prioritize dynamic problem-solving and stay updated on emerging technologies, especially in cybersecurity.
-<br/><br/>
-Currently pursuing a Bachelor of Science (Honours) in Information Technology (Software Engineering) at SLIIT, I am deeply committed to continuous learning and community engagement. My goal is to develop scalable software solutions, contribute to open-source initiatives, and make a meaningful impact through collaborative endeavors.
+I am a highly motivated and detail-oriented full-stack software developer with hands-on experience in building and deploying robust web applications. With a strong foundation in PHP, Java, C#, JavaScript, and the Yii Framework, I have successfully delivered scalable software solutions in both academic and real-world environments. My internship at the Department of Fisheries and Aquatic Resources marked a significant milestone, where I developed Sri Lanka’s first government Overtime Management System, enhancing operational efficiency across 15 districts.
+
+In addition to backend development, I am passionate about UI/UX design and have worked with tools like Figma and WordPress to create intuitive and user-friendly interfaces. I’ve led and contributed to projects involving Laravel, Django, and XML-based systems, including hospital, hotel, and fitness management platforms. Currently pursuing a BSc (Hons) in Information Technology with a focus in Software Engineering at ESOFT Metro Campus, I am committed to continuous learning, open-source collaboration, and applying technology to solve real-world problems.
 </p>
 ---
 
