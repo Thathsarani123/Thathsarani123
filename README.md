@@ -1,8 +1,9 @@
 <!-- Header Section -->
 <h1 align="center">✨ Hi, I'm P.M. Thathsarani ✨</h1>
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F78AB4&center=true&vCenter=true&width=550&height=45&lines=💻+Software+Engineer;🌐+Full-Stack+Developer;🎨+UI%2FUX+Designer;🌱+Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AB4&width=600&lines=💻+Software+Engineer;🌐+Full-Stack+Developer;🎨+UI%2FUX+Designer;🌱+Open-Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="justify">
