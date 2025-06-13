@@ -31,18 +31,6 @@ Currently pursuing a BSc (Hons) in Information Technology (Software Engineering)
 
 ---
 
-### 🔥 Projects & Contributions
-
-- 🕒 **Overtime Management System** for SL Government Sector  
-- 🎬 **Movie Rental System** using PHP & XML  
-- 🏥 **Hospital Management System** in C#  
-- 🧱 **Masonry Service Management System**  
-- 🎟️ **Movie Ticket Reservation System** in JS  
-- 📲 **E-Channeling Android App**  
-- ✍️ **Blog Post System** in Django  
-- 🧬 [**Length Conversion Factors for Billfish Species** – IOTC Publication](#)
-
----
 
 ### 📊 GitHub Status
 
