@@ -2,8 +2,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F78AB4&width=700&lines=✨+I'M+P.M.+Thathsarani+;💻+Software+Engineer;🌐+Full-Stack+Developer;🎨+UI%2FUX+Designer;🌱+Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F78AB4&width=800&lines=✨+I'M+P.M.+Thathsarani+;💻+Software+Engineer;🌐+Full-Stack+Developer;🎨+UI%2FUX+Designer;🌱+Open-Source+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 <p align="justify">
 I am a dedicated full-stack software developer with a strong foundation in web development, UI/UX design, and database management. With experience in technologies such as PHP, JavaScript, C#, Java, and the Yii Framework, I specialize in building scalable and efficient software solutions. During my internship at the Department of Fisheries and Aquatic Resources, I led the development of Sri Lanka’s first government Overtime Management System, significantly improving operational workflows.
