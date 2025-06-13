@@ -1,9 +1,8 @@
 <!-- Header Section -->
 <h1 align="center">✨ Hi, I'm P.M. Thathsarani ✨</h1>
-<h3 align="center">💻 Software Engineer | Full-Stack Developer | UI/UX Designer | Open-Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding-gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F78AB4&center=true&vCenter=true&width=550&height=45&lines=💻+Software+Engineer;🌐+Full-Stack+Developer;🎨+UI%2FUX+Designer;🌱+Open-Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="justify">
