@@ -9,9 +9,9 @@
 
 ### 💫 About Me
 
-- 🎓 BSc (Hons) in IT specializing in Software Engineering – **ESOFT Metro Campus**
+- 🎓 I’m currently learning BSc (Hons) in Information Technology Specializing in Software Engineering Degree from ESU
 - 👩‍💻 Full-Stack Developer with **1+ year of hands-on experience**
-- 🚀 Passionate about web apps, system development & user-first design
+- 🚀 All of my projects are available at 
 - 📫 Reach me at: [madhuwanthithathsarani@gmail.com](mailto:madhuwanthithathsarani@gmail.com)
 - 🔗 [LinkedIn](http://linkedin.com/in/p-m-thathsarani) | [GitHub](https://github.com/Thathsarani123)
 
