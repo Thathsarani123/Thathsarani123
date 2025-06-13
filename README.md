@@ -5,6 +5,11 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </p>
 
+<p align="justify">
+As a highly motivated software engineer with leadership experience, I excel in full-stack development, UI/UX design, and technical consultation. Proficient in Laravel, the MERN stack, and Vue.js, I’m passionate about JavaScript and contemporary frameworks. I prioritize dynamic problem-solving and stay updated on emerging technologies, especially in cybersecurity.
+<br/><br/>
+Currently pursuing a Bachelor of Science (Honours) in Information Technology (Software Engineering) at SLIIT, I am deeply committed to continuous learning and community engagement. My goal is to develop scalable software solutions, contribute to open-source initiatives, and make a meaningful impact through collaborative endeavors.
+</p>
 ---
 
 ### 💫 About Me
