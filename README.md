@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm P.M. Thathsarani</h1>
-<h3 align="center">🚀 Full-Stack Developer | UI/UX Enthusiast | Wb Developemrnt Expert</h3>
+<h3 align="center">🚀 Full-Stack Developer | UI/UX Enthusiast | Web Developemrnt Expert</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
