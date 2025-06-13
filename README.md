@@ -9,10 +9,9 @@
 
 ### 💫 About Me
 
-- 🌱 Graduate in **Software Engineering** from ESOFT Metro Campus, Colombo  
+- 🌱 I’m currently learning BSc (Hons) in Information Technology Specializing in Software Engineering Degree from ESU
 - 👩‍💻 Full-Stack Developer with **1+ year of experience**
-- 🏛 Intern at **Department of Fisheries**, built **Sri Lanka’s first Overtime Management System**
-- 🎨 UI/UX Designer with **Figma & WordPress expertise**
+- 🏛 All of my projects are available at
 - 📫 Reach me at: [madhuwanthithathsarani@gmail.com](mailto:madhuwanthithathsarani@gmail.com)
 - 🔗 [LinkedIn](http://linkedin.com/in/p-m-thathsarani) | [GitHub](https://github.com/Thathsarani123)
 
@@ -21,7 +20,7 @@
 ### 🧰 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,python,csharp,html,css,js,react,nodejs,bootstrap,figma,wordpress,mysql,mongodb,xml,django,git,github,yii" />
+  <img src="https://skillicons.dev/icons?i=php,java,python,csharp,html,css,js,,bootstrap,figma,wordpress,mysql,mongodb,xml,django,git,github,yii" />
 </p>
 
 ---
@@ -39,15 +38,6 @@
 
 ---
 
-### 📚 Education
-
-- 🎓 **BIT (Hons)** in Software Engineering – ESOFT Metro Campus  
-- 🖥️ Diploma in IT – Siksil Institute of Business Technology  
-- 🧾 AAT (Partly Qualified)  
-- 📈 Google Data Engineering Course (Ongoing)  
-- ☕ Java Programming – Great Learning (Ongoing)
-
----
 
 ### 📈 GitHub Stats
 
